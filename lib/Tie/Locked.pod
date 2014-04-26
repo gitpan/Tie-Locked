@@ -219,5 +219,9 @@ F<miko@idocs.com>
 
 Initial release
 
+=item Version 1.1  April 25, 2014
+
+Fixed error in META.yml.
+
 =back
 

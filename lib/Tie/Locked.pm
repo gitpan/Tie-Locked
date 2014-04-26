@@ -4,7 +4,7 @@ use Carp 'croak';
 
 
 # version
-our $VERSION = '1.0';
+our $VERSION = '1.1';
 
 
 # debugging tools
@@ -614,6 +614,10 @@ F<miko@idocs.com>
 =item Version 1.0  March 21, 2013
 
 Initial release
+
+=item Version 1.1  April 25, 2014
+
+Fixed error in META.yml.
 
 =back
 
